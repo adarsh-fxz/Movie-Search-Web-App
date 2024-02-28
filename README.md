@@ -70,6 +70,8 @@ their logo or mentioning their name.
 
 ## Screenshot
 
+![Screenshot from 2024-02-28 14-02-51](https://github.com/adarsh-fxz/Movie-Search-Web-App/assets/116485356/c2afa6a5-c650-47ba-b10d-ff55b10f8962)
+
 
 ## Link
 
